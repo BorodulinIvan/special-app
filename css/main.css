@@ -10,13 +10,13 @@ html, body {
 
 h1 {
     font-size: 36px;
-    color: #232323;
+    color: #732323;
     margin: 0;
     text-align: center;
 }
 
 nav {
-    height: 36px;
+    height: 366px;
     display: flex;
     justify-content: space-between;
     align-items: center;
